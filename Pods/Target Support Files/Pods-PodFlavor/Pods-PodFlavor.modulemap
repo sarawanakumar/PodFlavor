@@ -1,0 +1,6 @@
+framework module Pods_PodFlavor {
+  umbrella header "Pods-PodFlavor-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_PodFlavorTests {
+  umbrella header "Pods-PodFlavorTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
